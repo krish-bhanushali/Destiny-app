@@ -1,6 +1,15 @@
-# destiniapp
+# Destiny-app
 
-A new Flutter application.
+Have youcome across stories that act according to your choices? This App provides you them. 
+
+# Introduction
+So Destiny is app that makes you choose stories with options that decide the end of it. Just like Black Mirror Bandersnatch.
+
+* Future features:
+- As like the Quizller I will make this linked with firebase that will help me to update stories on the go and keep track of it.
+- Add more stories and animation too
+
+
 
 ## Getting Started
 
