@@ -8,7 +8,14 @@ So Destiny is app that makes you choose stories with options that decide the end
 * Future features:
 - As like the Quizller I will make this linked with firebase that will help me to update stories on the go and keep track of it.
 - Add more stories and animation too
+- Improve the top row
 
+# Visual
+
+![App Icon](https://github.com/krish-bhanushali/Destiny-app/blob/master/images/ic_launcher.png) 
+
+<img src="https://github.com/krish-bhanushali/Destiny-app/blob/master/images/Screenshot_1587027989.png" width="414" height="736" title="Github Logo">  <img src="https://github.com/krish-bhanushali/Destiny-app/blob/master/images/Screenshot_1587028002.png" width="414" height="736" title="Github Logo">
+ 
 
 
 ## Getting Started
